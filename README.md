@@ -26,6 +26,10 @@ A curated list of resources for Myanmar Unicode.
 * [MyanmarFontTagger](https://chrome.google.com/webstore/detail/myanmarfonttagger/ildjeipiccodnhbpjebhhodledejdeip) - Use both Zawgyi-One and Unicode at the same time when you browse the web.
 * [Tagu](https://chrome.google.com/webstore/detail/tagu/ddjpcdpfemhkibhpmgcdbfajdhgpegdk) - Detect and font embed zawgyi and unicode.
 
+*Firefox*
+
+* [Tagu](https://addons.mozilla.org/en-US/firefox/addon/tagu/) - Detect and font embed zawgyi and unicode.
+
 ## Libraries
 
 * [Paytan](https://github.com/trhura/paytan) - Collections of algorithms commonly used in myanmar language processing.
