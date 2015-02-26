@@ -6,6 +6,7 @@ A curated list of resources for Myanmar Unicode.
   - [Fonts](#fonts)
   - [Browser Extensions](#browser-extensions)
   - [Libraries](#libraries)
+  - [Applications](#applications)
 
 ---
 
@@ -35,3 +36,9 @@ A curated list of resources for Myanmar Unicode.
 
 * [Paytan](https://github.com/trhura/paytan) - Collections of algorithms commonly used in myanmar language processing.
 * [Parabaik](https://github.com/ngwestar/parabaik) - Text converter (Zawgyi <> Unicode)
+
+## Applications
+
+*Mac OSX*
+
+* [Unicode-Zawgyi-Converter](https://github.com/saturngod/Unicode-Zawgyi-Converter/releases) - Unicode ↔️ Zawgyi Converter for Mac.
