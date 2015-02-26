@@ -46,6 +46,7 @@ A curated list of resources for Myanmar Unicode.
 * [Magic Converter](https://addons.mozilla.org/en-US/firefox/addon/magicconverter/) - A myanmar text converter addon to convert between zawgyi and unicode for firefox.
 * [Tagu](https://addons.mozilla.org/en-US/firefox/addon/tagu/) - Detect and font embed zawgyi and unicode.
 * [Kain Na Yi](https://addons.mozilla.org/en-US/firefox/addon/kain-na-yi-plug-in/) - Works as helper for converting zawgyi to unicode.
+* [Firefox Myanmar Converter](https://github.com/thanlwinsoft/firefoxmyext) - Converts Myanmar pages using non-Unicode fonts such as ZawGyi-One, WinInnwa, WinBurmese to Unicode. It allows sending data that was typed in Unicode as ZawGyi-One. A basic Myanmar Unicode spell-checker is also included.
 
 ## Libraries
 
