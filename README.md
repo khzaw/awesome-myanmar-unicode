@@ -29,6 +29,7 @@ A curated list of resources for Myanmar Unicode.
 *Firefox*
 
 * [Tagu](https://addons.mozilla.org/en-US/firefox/addon/tagu/) - Detect and font embed zawgyi and unicode.
+* [Kain Na Yi](https://addons.mozilla.org/en-US/firefox/addon/kain-na-yi-plug-in/) - Works as helper for converting zawgyi to unicode.
 
 ## Libraries
 
