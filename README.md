@@ -18,6 +18,20 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar3](http://code.google.com/p/myanmar3source/)
 * [Padauk](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Padauk)
 * [Myanmar Sans Pro](http://fonts.gstatic.com/ea/myanmarsanspro/v4/download.zip)
+* [Myanmar SquareLight](https://github.com/khmertype/MyanmarSquareLight)
+* [Myanmar Yinmar](https://github.com/khmertype/MyanmarYinmar)
+* [Myanmar Ponenyet](https://github.com/khmertype/MyanmarPonenyet)
+* [Myanmar Khway](https://github.com/khmertype/MyanmarKhway)
+* [Myanmar Angoun](https://github.com/khmertype/MyanmarAngoun)
+* [Myanmar Pauklay](https://github.com/khmertype/MyanmarPauklay)
+* [Myanmar Pixel](https://github.com/khmertype/MyanmarPixel)
+* [Myanmar PiselSmooth](https://github.com/khmertype/MyanmarPixelSmooth)
+* [Myanmar Square](https://github.com/khmertype/MyanmarSquare)
+* [Myanmar Kuttar](https://github.com/khmertype/MyanmarKuttar)
+* [Myanmar Gantgaw](https://github.com/khmertype/MyanmarGantgaw)
+* [Myanmar Sagar](https://github.com/khmertype/MyanmarSagar)
+* [Myanmar Sabae](https://github.com/khmertype/MyanmarSabae)
+* [Myanmar Nijaun](https://github.com/khmertype/MyanmarNjaun)
 
 ## Browser Extensions
 
