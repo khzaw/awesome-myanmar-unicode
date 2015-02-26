@@ -44,4 +44,3 @@ A curated list of resources for Myanmar Unicode.
 *Mac OSX*
 
 * [Unicode-Zawgyi-Converter](https://github.com/saturngod/Unicode-Zawgyi-Converter/releases) - Unicode ↔️ Zawgyi Converter for Mac.
-=======
