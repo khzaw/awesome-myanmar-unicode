@@ -35,3 +35,5 @@ A curated list of resources for Myanmar Unicode.
 
 * [Paytan](https://github.com/trhura/paytan) - Collections of algorithms commonly used in myanmar language processing.
 * [Parabaik](https://github.com/ngwestar/parabaik) - Text converter (Zawgyi <> Unicode)
+* [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi1 <=> unicode strings 
+* [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails) - Myanmar font toolkit for rails app
