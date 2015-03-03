@@ -56,6 +56,7 @@ A curated list of resources for Myanmar Unicode.
 * [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails) - Myanmar font toolkit for rails app
 * [Rabbit](https://github.com/saturngod/Rabbit) - Zawgyi <=> Unicode conversion
   library with Java, Obj-C, Swift, Python, PHP, Ruby langauge support
+* [PHP Mmfont](https://github.com/setkyar/mmfont) - Simple PHP package whcich converts zawgyi <=> unicode
 
 ## Applications
 
