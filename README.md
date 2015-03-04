@@ -12,11 +12,7 @@ A curated list of resources for Myanmar Unicode.
 
 ## Fonts
 
-* [Tharlon](https://code.google.com/p/tharlon-font/)
-* [Noto Sans Myanmar](http://www.google.com/get/noto/#/family/noto-sans-mymr)
-* [Masterpiece Uni Sans](http://prahita.sourceforge.net/)
 * [Myanmar3](http://code.google.com/p/myanmar3source/)
-* [Padauk](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Padauk)
 * [Myanmar Sans Pro](http://fonts.gstatic.com/ea/myanmarsanspro/v4/download.zip)
 * [Myanmar SquareLight](https://github.com/khmertype/MyanmarSquareLight)
 * [Myanmar Yinmar](https://github.com/khmertype/MyanmarYinmar)
@@ -32,6 +28,11 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Sagar](https://github.com/khmertype/MyanmarSagar)
 * [Myanmar Sabae](https://github.com/khmertype/MyanmarSabae)
 * [Myanmar Nijaun](https://github.com/khmertype/MyanmarNjaun)
+* [Noto Sans Myanmar](http://www.google.com/get/noto/#/family/noto-sans-mymr)
+* [Padauk](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Padauk)
+* [Tharlon](https://code.google.com/p/tharlon-font/)
+* [Masterpiece Uni Sans](http://prahita.sourceforge.net/)
+* [Yangon](http://khnews.info/fonts/Yangon.ttf)
 
 ## Browser Extensions
 
@@ -53,6 +54,7 @@ A curated list of resources for Myanmar Unicode.
 * [Paytan](https://github.com/trhura/paytan) - Collections of algorithms commonly used in myanmar language processing.
 * [Parabaik](https://github.com/ngwestar/parabaik) - Text converter (Zawgyi <> Unicode)
 * [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings 
+* [mmfont](https://github.com/emoosx/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
 * [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails) - Myanmar font toolkit for rails app
 * [Rabbit](https://github.com/saturngod/Rabbit) - Zawgyi <=> Unicode conversion
   library with Java, Obj-C, Swift, Python, PHP, Ruby langauge support
