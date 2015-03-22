@@ -30,6 +30,7 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Nijaun](https://github.com/khmertype/MyanmarNjaun)
 * [Noto Sans Myanmar](http://www.google.com/get/noto/#/family/noto-sans-mymr)
 * [Padauk](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Padauk)
+* [Thanlwin](https://github.com/thanlwinsoft/thanlwinfont/releases)
 * [Tharlon](https://code.google.com/p/tharlon-font/)
 * [Masterpiece Uni Sans](http://prahita.sourceforge.net/)
 * [Yangon](http://khnews.info/fonts/Yangon.ttf)
