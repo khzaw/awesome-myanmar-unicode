@@ -12,7 +12,10 @@ A curated list of resources for Myanmar Unicode.
 
 ## Fonts
 
+* [Cherry Unicode](https://www.dropbox.com/s/bmqpcm8iomgom0w/Cherry%20Unicode.ttf?dl=0)
+* [Kamjing-2](https://www.dropbox.com/s/t20u1keu4cme4uc/Kamjing-2.ttf)
 * [Myanmar3](http://code.google.com/p/myanmar3source/)
+* [Myanmar Census](https://www.dropbox.com/s/el88jmvu2mkr28r/mmrCensus.v5.minbe5.ttf?dl=1)
 * [Myanmar Sans Pro](http://fonts.gstatic.com/ea/myanmarsanspro/v4/download.zip)
 * [Myanmar SquareLight](https://github.com/khmertype/MyanmarSquareLight)
 * [Myanmar Yinmar](https://github.com/khmertype/MyanmarYinmar)
@@ -33,6 +36,8 @@ A curated list of resources for Myanmar Unicode.
 * [Thanlwin](https://github.com/thanlwinsoft/thanlwinfont/releases)
 * [Tharlon](https://code.google.com/p/tharlon-font/)
 * [Masterpiece Uni Sans](http://prahita.sourceforge.net/)
+* [Masterpiece Uni Round](http://prahita.sourceforge.net/files/win8/MasterpieceUniRound.ttf)
+* [Mon3 Anonta 1](http://code.google.com/p/mon2uni/downloads/list)
 * [Yangon](http://khnews.info/fonts/Yangon.ttf)
 
 ## Browser Extensions
