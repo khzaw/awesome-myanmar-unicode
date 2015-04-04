@@ -6,6 +6,7 @@ A curated list of resources for Myanmar Unicode.
   - [Fonts](#fonts)
   - [Browser Extensions](#browser-extensions)
   - [Libraries](#libraries)
+  - [Typography Projects](#typography-projects)
   - [Applications](#applications)
 
 ---
@@ -83,6 +84,12 @@ A curated list of resources for Myanmar Unicode.
 
 * Multi
   - [Rabbit](https://github.com/saturngod/Rabbit) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby language support.
+
+
+## Typorgraphy Projects
+
+- [Beautiful Burmese Type](https://emoosx.github.io/beautiful-burmese-type/)
+- [Myanmar Web](https://github.com/enabling-languages/myanmarweb)
 
 
 
