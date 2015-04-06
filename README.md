@@ -54,6 +54,7 @@ A curated list of resources for Myanmar Unicode.
 * [Magic Button](https://chrome.google.com/webstore/detail/magic-button/anonbddkeifgmiekhengieaajehcpdcg) - Generates zawgyi and unicode versions of your facebook status.
 * [MyanmarFontTagger](https://chrome.google.com/webstore/detail/myanmarfonttagger/ildjeipiccodnhbpjebhhodledejdeip) - Use both Zawgyi-One and Unicode at the same time when you browse the web.
 * [Tagu](https://chrome.google.com/webstore/detail/tagu/ddjpcdpfemhkibhpmgcdbfajdhgpegdk) - Detect and font embed zawgyi and unicode.
+* [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
 
 *Firefox*
 
