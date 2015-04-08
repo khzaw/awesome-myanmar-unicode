@@ -54,6 +54,7 @@ A curated list of resources for Myanmar Unicode.
 * [Magic Button](https://chrome.google.com/webstore/detail/magic-button/anonbddkeifgmiekhengieaajehcpdcg) - Generates zawgyi and unicode versions of your facebook status.
 * [MyanmarFontTagger](https://chrome.google.com/webstore/detail/myanmarfonttagger/ildjeipiccodnhbpjebhhodledejdeip) - Use both Zawgyi-One and Unicode at the same time when you browse the web.
 * [Tagu](https://chrome.google.com/webstore/detail/tagu/ddjpcdpfemhkibhpmgcdbfajdhgpegdk) - Detect and font embed zawgyi and unicode.
+* [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
 
 *Firefox*
 
@@ -61,6 +62,10 @@ A curated list of resources for Myanmar Unicode.
 * [Tagu](https://addons.mozilla.org/en-US/firefox/addon/tagu/) - Detect and font embed zawgyi and unicode.
 * [Kain Na Yi](https://addons.mozilla.org/en-US/firefox/addon/kain-na-yi-plug-in/) - Works as helper for converting zawgyi to unicode.
 * [Firefox Myanmar Converter](https://github.com/thanlwinsoft/firefoxmyext) - Converts Myanmar pages using non-Unicode fonts such as ZawGyi-One, WinInnwa, WinBurmese to Unicode. It allows sending data that was typed in Unicode as ZawGyi-One. A basic Myanmar Unicode spell-checker is also included.
+
+*Safari*
+
+* [ZUZ Converter](http://cl.ly/aX6v/download/ZUZ%20Converter.safariextz) - Online/Offline Zawgyi <> Unicode text converter extension for Safari.
 
 ## Libraries
 
