@@ -34,6 +34,7 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Sans Pro](http://fonts.gstatic.com/ea/myanmarsanspro/v4/download.zip)
 * [Myanmar Square](https://github.com/khmertype/MyanmarSquare)
 * [Myanmar SquareLight](https://github.com/khmertype/MyanmarSquareLight)
+* [Myanmar Tagu](https://github.com/khmertype/MyanmarTagu)
 * [Myanmar Thuriya](https://github.com/khmertype/MyanmarThuriya)
 * [Myanmar Yinmar](https://github.com/khmertype/MyanmarYinmar)
 * [Noto Sans Myanmar](http://www.google.com/get/noto/#/family/noto-sans-mymr)
