@@ -26,6 +26,7 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Kuttar](https://github.com/khmertype/MyanmarKuttar)
 * [Myanmar Nijaun](https://github.com/khmertype/MyanmarNjaun)
 * [Myanmar Pauklay](https://github.com/khmertype/MyanmarPauklay)
+* [Myanmar Phetsot](https://github.com/khmertype/MyanmarPhetsot)
 * [Myanmar Pixel](https://github.com/khmertype/MyanmarPixel)
 * [Myanmar PixelSmooth](https://github.com/khmertype/MyanmarPixelSmooth)
 * [Myanmar Ponenyet](https://github.com/khmertype/MyanmarPonenyet)
