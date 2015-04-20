@@ -20,6 +20,7 @@ A curated list of resources for Myanmar Unicode.
 * [Mon3 Anonta 1](http://code.google.com/p/mon2uni/downloads/list)
 * [Myanmar3](http://code.google.com/p/myanmar3source/)
 * [Myanmar Angoun](https://github.com/khmertype/MyanmarAngoun)
+* [Myanmar Black](https://github.com/khmertype/MyanmarBlack)
 * [Myanmar Census](https://www.dropbox.com/s/el88jmvu2mkr28r/mmrCensus.v5.minbe5.ttf?dl=1)
 * [Myanmar Gantgaw](https://github.com/khmertype/MyanmarGantgaw)
 * [Myanmar Khway](https://github.com/khmertype/MyanmarKhway)
