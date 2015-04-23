@@ -60,6 +60,7 @@ A curated list of resources for Myanmar Unicode.
 * [MyanmarFontTagger](https://chrome.google.com/webstore/detail/myanmarfonttagger/ildjeipiccodnhbpjebhhodledejdeip) - Use both Zawgyi-One and Unicode at the same time when you browse the web.
 * [Tagu](https://chrome.google.com/webstore/detail/tagu/ddjpcdpfemhkibhpmgcdbfajdhgpegdk) - Detect and font embed zawgyi and unicode.
 * [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
+* [oneclick-fontchanger](https://chrome.google.com/webstore/detail/oneclick-fontchanger/lcibcnkknknmafeamdfcjlidodipfffe) - Let you switch between two (configurable) fonts for chrome via  two shortcuts (intended for unicode and zawgyi)
 
 *Firefox*
 
