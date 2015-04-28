@@ -94,7 +94,7 @@ A curated list of resources for Myanmar Unicode.
   - [mmfont](https://github.com/emoosx/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
 
 * Multi
-  - [Rabbit](https://github.com/saturngod/Rabbit) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby language support.
+  - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
 
 
 ## Typorgraphy Projects
