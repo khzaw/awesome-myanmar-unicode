@@ -90,7 +90,7 @@ A curated list of resources for Myanmar Unicode.
   - [PHP Mmfont](https://github.com/setkyar/mmfont) - Simple PHP package whcich converts zawgyi <=> unicode.
 
 * Python
-  - [mmfont](https://github.com/emoosx/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
+  - [mmfont](https://github.com/khzaw/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
 
 * Multi
   - [Rabbit](https://github.com/saturngod/Rabbit) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby language support.
@@ -98,7 +98,7 @@ A curated list of resources for Myanmar Unicode.
 
 ## Typorgraphy Projects
 
-- [Beautiful Burmese Type](https://emoosx.github.io/beautiful-burmese-type/)
+- [Beautiful Burmese Type](https://khzaw.github.io/beautiful-burmese-type/)
 - [Myanmar Web](https://github.com/enabling-languages/myanmarweb)
 
 
