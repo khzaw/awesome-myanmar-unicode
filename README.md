@@ -66,6 +66,7 @@ A curated list of resources for Myanmar Unicode.
 *Safari*
 
 * [ZUZ Converter](http://cl.ly/aX6v/download/ZUZ%20Converter.safariextz) - Online/Offline Zawgyi <> Unicode text converter extension for Safari.
+* [MUA Web Unicode Converter](http://cl.ly/c26M/download/MUA%20Web%20Unicode%20Converter.safariextz) - It will check web content and convert to Unicode text if they are written with Zawgyi.
 
 ## Libraries
 
