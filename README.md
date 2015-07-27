@@ -55,6 +55,7 @@ A curated list of resources for Myanmar Unicode.
 * [MyanmarFontTagger](https://chrome.google.com/webstore/detail/myanmarfonttagger/ildjeipiccodnhbpjebhhodledejdeip) - Use both Zawgyi-One and Unicode at the same time when you browse the web.
 * [Tagu](https://chrome.google.com/webstore/detail/tagu/ddjpcdpfemhkibhpmgcdbfajdhgpegdk) - Detect and font embed zawgyi and unicode.
 * [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
+* [MUA Web Unicode Converter](https://chrome.google.com/webstore/detail/mua-web-unicode-converter/jnmdbgnckbbmblkbammnfagdmikchhnp?hl=en) - It checks web content and converts to Unicode text if they are written with Zawgyi. There's also extension for Safari.
 
 *Firefox*
 
@@ -66,7 +67,7 @@ A curated list of resources for Myanmar Unicode.
 *Safari*
 
 * [ZUZ Converter](http://cl.ly/aX6v/download/ZUZ%20Converter.safariextz) - Online/Offline Zawgyi <> Unicode text converter extension for Safari.
-* [MUA Web Unicode Converter](http://cl.ly/c26M/download/MUA%20Web%20Unicode%20Converter.safariextz) - It will check web content and convert to Unicode text if they are written with Zawgyi.
+* [MUA Web Unicode Converter](http://cl.ly/c26M/download/MUA%20Web%20Unicode%20Converter.safariextz) - It will check web content and convert to Unicode text if they are written with Zawgyi. There's also chrome extension.
 
 ## Libraries
 
