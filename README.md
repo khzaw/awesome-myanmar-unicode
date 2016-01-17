@@ -51,6 +51,7 @@ A curated list of resources for Myanmar Unicode.
 * [Thanlwin](https://github.com/thanlwinsoft/thanlwinfont/releases)
 * [Tharlon](https://code.google.com/p/tharlon-font/)
 * [Yangon](http://khnews.info/fonts/Yangon.ttf)
+* [YoeYar](http://www.mmunicode.org/news/yoeyarfont)
 
 ## Browser Extensions
 
