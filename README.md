@@ -87,20 +87,20 @@ A curated list of resources for Myanmar Unicode.
     improve Myanmar script web typography.
 
 * Ruby
-  - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings 
+  - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings
   - [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails) - Myanmar font toolkit for rails app.
 
 * PHP
   - [PHP Mmfont](https://github.com/setkyar/mmfont) - Simple PHP package whcich converts zawgyi <=> unicode.
 
 * Python
-  - [mmfont](https://github.com/khzaw/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
+  - [mmfont](https://github.com/khzaw/mmfont) - A simple Python package which converts zawgyi <=> unicode strings
 
 * Multi
   - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
 
 
-## Typorgraphy Projects
+## Typography Projects
 
 - [Beautiful Burmese Type](https://khzaw.github.io/beautiful-burmese-type/)
 - [Myanmar Web](https://github.com/enabling-languages/myanmarweb)
