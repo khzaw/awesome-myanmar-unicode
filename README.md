@@ -53,6 +53,9 @@ A curated list of resources for Myanmar Unicode.
 * [Yangon](http://khnews.info/fonts/Yangon.ttf)
 * [YoeYar](http://www.mmunicode.org/news/yoeyarfont)
 
+## Hybrid fonts
+* [ZawDecode](http://guides.mmunicode.org/index.php/File:ZawDecode1.1_for_Windows01.ttf)
+
 ## Browser Extensions
 
 *Google Chrome*
@@ -63,7 +66,7 @@ A curated list of resources for Myanmar Unicode.
 * [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
 * [oneclick-fontchanger](https://chrome.google.com/webstore/detail/oneclick-fontchanger/lcibcnkknknmafeamdfcjlidodipfffe) - Let you switch between two (configurable) fonts for chrome via  two shortcuts (intended for unicode and zawgyi)
 * [MUA Web Unicode Converter](https://chrome.google.com/webstore/detail/mua-web-unicode-converter/jnmdbgnckbbmblkbammnfagdmikchhnp?hl=en) - It checks web content and converts to Unicode text if they are written with Zawgyi. There's also extension for Safari.
-* [Myanmar ZawGyi and Unicode Converter](https://chrome.google.com/webstore/detail/myanmar-zawgyi-and-unicod/elnngfdiiddneiinllplklpadfogajck) - Convert texts between Myanmar ZawGyi and Unicode from Chrome's tool bar. 
+* [Myanmar ZawGyi and Unicode Converter](https://chrome.google.com/webstore/detail/myanmar-zawgyi-and-unicod/elnngfdiiddneiinllplklpadfogajck) - Convert texts between Myanmar ZawGyi and Unicode from Chrome's tool bar.
 
 *Firefox*
 
