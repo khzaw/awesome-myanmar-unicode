@@ -38,6 +38,7 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Square](https://github.com/khmertype/MyanmarSquare)
 * [Myanmar SquareLight](https://github.com/khmertype/MyanmarSquareLight)
 * [Myanmar Tagu](https://github.com/khmertype/MyanmarTagu)
+* [Myanmar Text](https://www.microsoft.com/typography/fonts/font.aspx?FMID=2143)
 * [Myanmar Thuriya](https://github.com/khmertype/MyanmarThuriya)
 * [Myanmar Yinmar](https://github.com/khmertype/MyanmarYinmar)
 * [Noto Sans Myanmar](http://www.google.com/get/noto/#/family/noto-sans-mymr)
@@ -62,7 +63,7 @@ A curated list of resources for Myanmar Unicode.
 * [ZUZ](https://chrome.google.com/webstore/detail/zuz/eaonjjaifdnimemboemfipieiohpfggo) - Online/Offline Zawgyi <> Unicode text converter app for Chrome.
 * [oneclick-fontchanger](https://chrome.google.com/webstore/detail/oneclick-fontchanger/lcibcnkknknmafeamdfcjlidodipfffe) - Let you switch between two (configurable) fonts for chrome via  two shortcuts (intended for unicode and zawgyi)
 * [MUA Web Unicode Converter](https://chrome.google.com/webstore/detail/mua-web-unicode-converter/jnmdbgnckbbmblkbammnfagdmikchhnp?hl=en) - It checks web content and converts to Unicode text if they are written with Zawgyi. There's also extension for Safari.
-* [Myanmar ZawGyi and Unicode Converter](https://chrome.google.com/webstore/detail/myanmar-zawgyi-and-unicod/elnngfdiiddneiinllplklpadfogajck) - Convert texts between Myanmar ZawGyi and Unicode from Chrome's tool bar. 
+* [Myanmar ZawGyi and Unicode Converter](https://chrome.google.com/webstore/detail/myanmar-zawgyi-and-unicod/elnngfdiiddneiinllplklpadfogajck) - Convert texts between Myanmar ZawGyi and Unicode from Chrome's tool bar.
 
 *Firefox*
 
@@ -87,14 +88,14 @@ A curated list of resources for Myanmar Unicode.
     improve Myanmar script web typography.
 
 * Ruby
-  - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings 
+  - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings
   - [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails) - Myanmar font toolkit for rails app.
 
 * PHP
   - [PHP Mmfont](https://github.com/setkyar/mmfont) - Simple PHP package whcich converts zawgyi <=> unicode.
 
 * Python
-  - [mmfont](https://github.com/khzaw/mmfont) - A simple Python package which converts zawgyi <=> unicode strings 
+  - [mmfont](https://github.com/khzaw/mmfont) - A simple Python package which converts zawgyi <=> unicode strings
 
 * Multi
   - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
