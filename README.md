@@ -52,6 +52,10 @@ A curated list of resources for Myanmar Unicode.
 * [Thanlwin](https://github.com/thanlwinsoft/thanlwinfont/releases)
 * [Tharlon](https://code.google.com/p/tharlon-font/)
 * [Yangon](http://khnews.info/fonts/Yangon.ttf)
+* [YoeYar](http://www.mmunicode.org/news/yoeyarfont)
+
+## Hybrid fonts
+* [ZawDecode](http://guides.mmunicode.org/index.php/File:ZawDecode1.1_for_Windows01.ttf)
 
 ## Browser Extensions
 
@@ -101,7 +105,7 @@ A curated list of resources for Myanmar Unicode.
   - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
 
 
-## Typorgraphy Projects
+## Typography Projects
 
 - [Beautiful Burmese Type](https://khzaw.github.io/beautiful-burmese-type/)
 - [Myanmar Web](https://github.com/enabling-languages/myanmarweb)
