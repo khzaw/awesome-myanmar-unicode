@@ -63,11 +63,16 @@ A curated list of resources for Myanmar Unicode.
 * [Tagu](https://addons.mozilla.org/en-US/firefox/addon/tagu/) - Detect and font embed zawgyi and unicode.
 * [Kain Na Yi](https://addons.mozilla.org/en-US/firefox/addon/kain-na-yi-plug-in/) - Works as helper for converting zawgyi to unicode.
 * [Firefox Myanmar Converter](https://github.com/thanlwinsoft/firefoxmyext) - Converts Myanmar pages using non-Unicode fonts such as ZawGyi-One, WinInnwa, WinBurmese to Unicode. It allows sending data that was typed in Unicode as ZawGyi-One. A basic Myanmar Unicode spell-checker is also included.
+* [MUA Web Unicode Converter](https://addons.mozilla.org/en-US/firefox/addon/mua-web-unicode-converter/) - It will check web content and convert to Unicode text if they are written with Zawgyi. Also available for Firefox for Android.
 
 *Safari*
 
 * [ZUZ Converter](http://cl.ly/aX6v/download/ZUZ%20Converter.safariextz) - Online/Offline Zawgyi <> Unicode text converter extension for Safari.
-* [MUA Web Unicode Converter](http://cl.ly/c26M/download/MUA%20Web%20Unicode%20Converter.safariextz) - It will check web content and convert to Unicode text if they are written with Zawgyi. There's also chrome extension.
+* [MUA Web Unicode Converter](http://cl.ly/c26M/download/MUA%20Web%20Unicode%20Converter.safariextz) - It will check web content and convert to Unicode text if they are written with Zawgyi.
+
+*Opera*
+
+* [MUA Web Unicode Converter](https://addons.opera.com/en-gb/extensions/details/mua-web-unicode-converter/) - It will check web content and convert to Unicode text if they are written with Zawgyi.
 
 ## Libraries
 
