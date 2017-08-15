@@ -99,6 +99,7 @@ A curated list of resources for Myanmar Unicode.
 * Javascript
   - [jQuery mymr](https://github.com/andjc/jquery.mymr) - jQuery support to
     improve Myanmar script web typography.
+  - [mm-unicoder](https://github.com/ha-shine/mm-unicoder) - Vanilla javascript library to convert english characters to myanmar unicode characters
 
 * Ruby
   - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings
