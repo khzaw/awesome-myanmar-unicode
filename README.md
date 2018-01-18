@@ -8,7 +8,7 @@ A curated list of resources for Myanmar Unicode.
   - [Libraries](#libraries)
   - [Typography Projects](#typography-projects)
   - [Applications](#applications)
-
+  - [Working Group](#working-group)
 ---
 
 ## Fonts
@@ -94,11 +94,12 @@ A curated list of resources for Myanmar Unicode.
 
 * General
   - [Paytan](https://github.com/trhura/paytan) - Collections of algorithms commonly used in myanmar language processing.
-  - [Parabaik](https://github.com/ngwestar/parabaik) - Text converter (Zawgyi <> Unicode).
+  - [Parabaik](https://github.com/Zwenexsys/parabaik) - Text converter (Zawgyi <> Unicode).
 
 * Javascript
   - [jQuery mymr](https://github.com/andjc/jquery.mymr) - jQuery support to
     improve Myanmar script web typography.
+  - [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript) - Standalone Myanmar languages JavaScript library, use to build Myanmar Unicode standard easily.
 
 * Ruby
   - [mmfont](https://github.com/yelinaung/mmfont) - A simple Ruby gem which converts zawgyi <=> unicode strings
@@ -112,7 +113,7 @@ A curated list of resources for Myanmar Unicode.
 
 * Multi
   - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
-
+  - [Myanmar Tools](https://github.com/googlei18n/myanmar-tools) - Zawgyi-One (or) Unicode detector library with C++, Java, and JavaScript (both Node.js and browser).
 
 ## Typography Projects
 
@@ -126,3 +127,8 @@ A curated list of resources for Myanmar Unicode.
 *Mac OSX*
 
 * [Unicode-Zawgyi-Converter](https://github.com/saturngod/Unicode-Zawgyi-Converter/releases) - Unicode <=> Zawgyi Converter for Mac.
+
+## Working Group
+ - [Myanmar Unicode Area](http://www.mmunicode.org/) - [Facebook](https://www.facebook.com/groups/mmUnicode)
+ - [Unicode Today](http://www.unicode.today/)
+ - [Myanmar Language](http://myanmarlanguage.org/)
