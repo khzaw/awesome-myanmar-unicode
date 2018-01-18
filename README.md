@@ -113,7 +113,7 @@ A curated list of resources for Myanmar Unicode.
 
 * Multi
   - [Rabbit](https://github.com/Rabbit-Converter) - Zawgyi <=> Unicode conversion library with Java, Obj-C, Swift, Python, PHP, Ruby, Node, Elixir, Zephir language support.
-
+  - [Myanmar Tools](https://github.com/googlei18n/myanmar-tools) - Zawgyi-One (or) Unicode detector library with C++, Java, and JavaScript (both Node.js and browser).
 
 ## Typography Projects
 
