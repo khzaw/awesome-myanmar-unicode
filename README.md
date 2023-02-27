@@ -133,6 +133,10 @@ A curated list of resources for Myanmar Unicode.
 
 * [Unicode-Zawgyi-Converter](https://github.com/saturngod/Unicode-Zawgyi-Converter/releases) - Unicode <=> Zawgyi Converter for Mac.
 
+*Web*
+
+* [MyanType](https://myantype.com) - A web application for learning Myamar unicode touch typing with various lessons and tests.
+
 ## Communities
  - [Myanmar Unicode Area](http://www.mmunicode.org/) - [Facebook](https://www.facebook.com/groups/mmUnicode)
  - [Unicode Today](http://www.unicode.today/)
