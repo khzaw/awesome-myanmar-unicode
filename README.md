@@ -129,6 +129,8 @@ A curated list of resources for Myanmar Unicode.
 
 ## Applications
 
+* [OpenStreetMap-BurmeseEncoding](https://github.com/bdon/OpenStreetMap-BurmeseEncoding) - project to convert [OpenStreetMap](https://openstreetmap.org) data from Zawgyi to Unicode.
+
 *Mac OSX*
 
 * [Unicode-Zawgyi-Converter](https://github.com/saturngod/Unicode-Zawgyi-Converter/releases) - Unicode <=> Zawgyi Converter for Mac.
