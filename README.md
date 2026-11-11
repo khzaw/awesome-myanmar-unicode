@@ -104,6 +104,7 @@ A curated list of resources for Myanmar Unicode.
   - [jQuery mymr](https://github.com/andjc/jquery.mymr) - jQuery support to
   - [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript) - Standalone Myanmar languages JavaScript library, use to build Myanmar Unicode standard easily.
   - [mm-unicoder](https://github.com/ha-shine/mm-unicoder) - Vanilla javascript library to convert english characters to myanmar unicode characters
+  - [legacy-fonts-to-unicode](https://github.com/osamamumtaz01/legacy-fonts-to-unicode) - Dependency-free Zawgyi <=> Unicode converter with a Zawgyi probability check, for Node.js and the browser.
 
 - Ruby
 
